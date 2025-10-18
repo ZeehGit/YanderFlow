@@ -7,7 +7,7 @@ The goal: To simulate a real-world client project using ASP.NET Core (backend), 
 - It streamlines creative collaboration by bringing structure to creativity and creativity to structure.
 - This repository documents weekly progress, including requirements, ERDs, designs, user flows, and code iterations.
 
-Progress Overview
+# Progress Overview
 Week 1 – Project Specification & Requirements
 Focus: Understanding the brief, gathering requirements, and defining the system scope.
 Contents:
