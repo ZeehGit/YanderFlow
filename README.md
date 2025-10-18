@@ -1,5 +1,5 @@
 # YanderFlow
-A personal full-stack web application project built to document the entire development process — from requirements and planning to design, implementation, and deployment.
+A personal full-stack web application project built to document the entire development process - from requirements and planning to design, implementation, and deployment.
 
 The goal: To simulate a real-world client project using ASP.NET Core (backend), React (frontend), and SQL Server (database), while applying software engineering best practices.
 
@@ -8,7 +8,7 @@ The goal: To simulate a real-world client project using ASP.NET Core (backend), 
 - This repository documents weekly progress, including requirements, ERDs, designs, user flows, and code iterations.
 
 # Progress Overview
-Week 1 – Project Specification & Requirements
+Week 1 - Project Specification & Requirements
 Focus: Understanding the brief, gathering requirements, and defining the system scope.
 Contents:
 - Approved Amendments
@@ -17,7 +17,7 @@ Contents:
 - Entity-Relationship Diagram (ERD)
 - System Architecture Outline
 
-Week 2 – Designing and Prototyping (Very difficult week)
+Week 2 - Designing and Prototyping (Very difficult week)
 Focus: Defining YanderFlow’s visual identity and UI/UX system.
 Contents:
 - Brand Personality and Color Palette
