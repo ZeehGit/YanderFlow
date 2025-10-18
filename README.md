@@ -24,3 +24,13 @@ Contents:
 - Low-Fidelity Wireframes (Draw.io)
 - User & Data Flow Diagrams
 - Functional Notes
+
+# Tech Stack
+- Frontend: React (TypeScript)
+- Backend: ASP.NET Core Web API
+- Database: SQL Server
+- Storage: Azure Blob Storage
+- Version Control: Git + GitHub
+- Design Tools: Draw.io, Canva
+
+This is a personal practice project guided by a real client specification, created to gain hands-on experience in managing end-to-end software development, from initial documentation to deployment.
